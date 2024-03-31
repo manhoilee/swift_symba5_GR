@@ -1,0 +1,1 @@
+swift_symba5_GR.f is the driver of the symplectic integrator SyMBA with GR precession using the potential of Nobili & Roxburgh (1986). It requires the SWIFT package available at https://www.boulder.swri.edu/~hal/swift.html
